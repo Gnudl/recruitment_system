@@ -1,0 +1,102 @@
+[
+  {
+    "job_id": "1680495",
+    "title": "Remote Office Assistant",
+    "company": "Coalition Technologies",
+    "location": "Worldwide",
+    "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+    "published_date": "2026-10-11",
+    "source": "https://remotive.com/api/remote-jobs",
+    "fetched_at": "2026-10-15T19:34:41"
+  },
+  {
+    "job_id": "2086540",
+    "title": "Inside Sales Contractor",
+    "company": "Credit Wellness, LLC",
+    "location": "Worldwide",
+    "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+    "published_date": "2026-10-08",
+    "source": "https://remotive.com/api/remote-jobs",
+    "fetched_at": "2026-10-15T19:34:41"
+  },
+  {
+    "job_id": "2091045",
+    "title": "Tier III Service Desk Engineer",
+    "company": "Unio Digital",
+    "location": "Worldwide",
+    "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+    "published_date": "2026-10-07",
+    "source": "https://remotive.com/api/remote-jobs",
+    "fetched_at": "2026-10-15T19:34:41"
+  },
+  {
+    "job_id": "1185979",
+    "title": "Freelance Writer",
+    "company": "IAPWE",
+    "location": "Worldwide",
+    "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+    "published_date": "2026-10-04",
+    "source": "https://remotive.com/api/remote-jobs",
+    "fetched_at": "2026-10-15T19:34:41"
+  },
+  {
+    "job_id": "1749306",
+    "title": "Freelance Copywriter",
+    "company": "Coalition Technologies",
+    "location": "Worldwide",
+    "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
+    "published_date": "2026-10-02",
+    "source": "https://remotive.com/api/remote-jobs",
+    "fetched_at": "2026-10-15T19:34:41"
+  },
+  {
+    "job_id": "2091133",
+    "title": "Senior React Full-stack Developer",
+    "company": "Lemon.io",
+    "location": "Europe, USA, Canada, APAC",
+    "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133",
+    "published_date": "2026-10-02",
+    "source": "https://remotive.com/api/remote-jobs",
+    "fetched_at": "2026-10-15T19:34:41"
+  },
+  {
+    "job_id": "2091132",
+    "title": "Senior back-end Engineer",
+    "company": "Lemon.io",
+    "location": "Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",
+    "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
+    "published_date": "2026-09-30",
+    "source": "https://remotive.com/api/remote-jobs",
+    "fetched_at": "2026-10-15T19:34:41"
+  },
+  {
+    "job_id": "2091144",
+    "title": "Content Reviewer - United States",
+    "company": "TELUS Digital",
+    "location": "USA",
+    "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091144",
+    "published_date": "2026-09-21",
+    "source": "https://remotive.com/api/remote-jobs",
+    "fetched_at": "2026-10-15T19:34:41"
+  },
+  {
+    "job_id": "2091140",
+    "title": "Senior Shopify Developer",
+    "company": "Sanctuary Computer Inc",
+    "location": "Worldwide",
+    "url": "https://remotive.com/remote-jobs/software-development/senior-shopify-developer-2091140",
+    "published_date": "2026-09-18",
+    "source": "https://remotive.com/api/remote-jobs",
+    "fetched_at": "2026-10-15T19:34:41"
+  },
+  {
+    "job_id": "2091131",
+    "title": "Senior AI Engineer",
+    "company": "Lemon.io",
+    "location": "Northern America, LATAM, Europe, APAC",
+    "url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
+    "published_date": "2026-09-18",
+    "source": "https://remotive.com/api/remote-jobs",
+    "fetched_at": "2026-10-15T19:34:41"
+  }
+]
