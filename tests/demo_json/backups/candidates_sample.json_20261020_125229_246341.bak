@@ -1,0 +1,16 @@
+[
+  {
+    "person_id": "C01",
+    "full_name": "Nguyễn Văn An",
+    "email": "an@example.com",
+    "phone": "0912345678",
+    "position_id": "PY"
+  },
+  {
+    "person_id": "C02",
+    "full_name": "Trần Thị Bình",
+    "email": "binh@example.com",
+    "phone": "0987654321",
+    "position_id": "HR"
+  }
+]
