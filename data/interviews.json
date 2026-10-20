@@ -1,0 +1,82 @@
+[
+  {
+    "interview_id": "I001",
+    "candidate_id": "C001",
+    "round_number": 1,
+    "starts_at": "2026-09-05 09:00",
+    "interviewer": "Trưởng nhóm kỹ thuật",
+    "outcome": "Đạt",
+    "score": 85,
+    "notes": "Kiến thức Python tốt"
+  },
+  {
+    "interview_id": "I002",
+    "candidate_id": "C001",
+    "round_number": 2,
+    "starts_at": "2026-09-08 09:00",
+    "interviewer": "Trưởng phòng IT",
+    "outcome": "Đạt",
+    "score": 92,
+    "notes": "Phù hợp vị trí"
+  },
+  {
+    "interview_id": "I003",
+    "candidate_id": "C002",
+    "round_number": 1,
+    "starts_at": "2026-09-06 10:00",
+    "interviewer": "Trưởng nhóm kỹ thuật",
+    "outcome": "Đạt",
+    "score": 80,
+    "notes": "Đạt vòng chuyên môn"
+  },
+  {
+    "interview_id": "I004",
+    "candidate_id": "C002",
+    "round_number": 2,
+    "starts_at": "2026-09-09 10:00",
+    "interviewer": "Trưởng phòng IT",
+    "outcome": "Chờ đánh giá",
+    "score": null,
+    "notes": ""
+  },
+  {
+    "interview_id": "I005",
+    "candidate_id": "C003",
+    "round_number": 1,
+    "starts_at": "2026-09-10 08:30",
+    "interviewer": "Nhân sự",
+    "outcome": "Chờ đánh giá",
+    "score": null,
+    "notes": ""
+  },
+  {
+    "interview_id": "I006",
+    "candidate_id": "C006",
+    "round_number": 1,
+    "starts_at": "2026-09-05 14:00",
+    "interviewer": "Trưởng nhóm dữ liệu",
+    "outcome": "Đạt",
+    "score": 88,
+    "notes": "Tốt"
+  },
+  {
+    "interview_id": "I007",
+    "candidate_id": "C006",
+    "round_number": 2,
+    "starts_at": "2026-09-08 14:00",
+    "interviewer": "Trưởng phòng dữ liệu",
+    "outcome": "Đạt",
+    "score": 96,
+    "notes": "Đề nghị offer"
+  },
+  {
+    "interview_id": "I008",
+    "candidate_id": "C007",
+    "round_number": 1,
+    "starts_at": "2026-09-06 15:00",
+    "interviewer": "Nhân sự",
+    "outcome": "Không đạt",
+    "score": 40,
+    "notes": "Chưa đáp ứng yêu cầu"
+  }
+]

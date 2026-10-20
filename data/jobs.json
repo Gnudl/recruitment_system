@@ -1,0 +1,47 @@
+[
+  {
+    "position_id": "DEV_PY",
+    "title": "Senior Python Backend Developer",
+    "department": "Phòng Kỹ thuật",
+    "min_salary": 25000000.0,
+    "max_salary": 45000000.0,
+    "quota": 3,
+    "status": "Đang tuyển"
+  },
+  {
+    "position_id": "DEV_FE",
+    "title": "Frontend React Specialist",
+    "department": "Phòng Kỹ thuật",
+    "min_salary": 20000000.0,
+    "max_salary": 35000000.0,
+    "quota": 2,
+    "status": "Đang tuyển"
+  },
+  {
+    "position_id": "QA_QC",
+    "title": "Automation QA Tester",
+    "department": "Phòng QA/QC",
+    "min_salary": 18000000.0,
+    "max_salary": 28000000.0,
+    "quota": 2,
+    "status": "Đang tuyển"
+  },
+  {
+    "position_id": "DEVOPS",
+    "title": "DevOps Cloud Engineer",
+    "department": "Phòng Hạ tầng",
+    "min_salary": 28000000.0,
+    "max_salary": 48000000.0,
+    "quota": 1,
+    "status": "Đang tuyển"
+  },
+  {
+    "position_id": "DATA_AI",
+    "title": "AI & Data Engineer",
+    "department": "Viện Công nghệ AI",
+    "min_salary": 30000000.0,
+    "max_salary": 55000000.0,
+    "quota": 2,
+    "status": "Đang tuyển"
+  }
+]

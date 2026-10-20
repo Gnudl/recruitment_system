@@ -1,0 +1,20 @@
+[
+  {
+    "person_id": "U01",
+    "full_name": "Quản trị viên Hệ thống",
+    "email": "admin@recruitment.vn",
+    "phone": "0901234567",
+    "username": "admin",
+    "password_hash": "pbkdf2_sha256$200000$102e0a705aafd6654b6c1e0b997774ca$e0d98216057726b1d4240a73bcfe68c6d0d1b5db360816cae3d70679fd1d4019",
+    "role": "Admin"
+  },
+  {
+    "person_id": "U02",
+    "full_name": "Nhân viên Tuyển dụng",
+    "email": "staff@recruitment.vn",
+    "phone": "0987654321",
+    "username": "staff",
+    "password_hash": "pbkdf2_sha256$200000$526fcc0a6f32c9019aaeaedb1dba00e6$2e75d9d9f62f223c8590bc2dc76344a88fbfbec79fc863876bc4c42713adfc78",
+    "role": "Staff"
+  }
+]

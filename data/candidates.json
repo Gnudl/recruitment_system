@@ -1,0 +1,79 @@
+[
+  {
+    "person_id": "C001",
+    "full_name": "Nguyễn Văn An",
+    "email": "an.nguyen@gmail.com",
+    "phone": "0981234567",
+    "position_id": "DEV_PY",
+    "experience_years": 3.5,
+    "status": "Đạt/Offer",
+    "interview_score": 92,
+    "source": "Website công ty"
+  },
+  {
+    "person_id": "C002",
+    "full_name": "Trần NGUYỄN Bảo",
+    "email": "bao.tran@outlook.com",
+    "phone": "0912345678",
+    "position_id": "DEV_PY",
+    "experience_years": 2,
+    "status": "Phỏng vấn vòng 2",
+    "interview_score": 85,
+    "source": "Mạng xã hội"
+  },
+  {
+    "person_id": "C003",
+    "full_name": "Lê Thị Cẩm",
+    "email": "cam.le@yahoo.com",
+    "phone": "0356789123",
+    "position_id": "DEV_FE",
+    "experience_years": 1.5,
+    "status": "Phỏng vấn vòng 1",
+    "interview_score": 78,
+    "source": "Giới thiệu"
+  },
+  {
+    "person_id": "C004",
+    "full_name": "Phạm Quốc Dũng",
+    "email": "dung.pham@company.vn",
+    "phone": "0778899001",
+    "position_id": "DEVOPS",
+    "experience_years": 4,
+    "status": "Duyệt CV",
+    "interview_score": 65,
+    "source": "Website công ty"
+  },
+  {
+    "person_id": "C005",
+    "full_name": "Hoàng Minh Em",
+    "email": "em.hoang@gmail.com",
+    "phone": "0888999111",
+    "position_id": "QA_QC",
+    "experience_years": 1,
+    "status": "Nộp hồ sơ",
+    "interview_score": 0,
+    "source": "Ngày hội việc làm"
+  },
+  {
+    "person_id": "C006",
+    "full_name": "Vũ Đình Phúc",
+    "email": "phuc.vu@fpt.edu.vn",
+    "phone": "0933221100",
+    "position_id": "DATA_AI",
+    "experience_years": 5,
+    "status": "Đạt/Offer",
+    "interview_score": 96,
+    "source": "Giới thiệu"
+  },
+  {
+    "person_id": "C007",
+    "full_name": "Đỗ Thị Quỳnh",
+    "email": "quynh.do@tech.vn",
+    "phone": "0567123456",
+    "position_id": "DEV_FE",
+    "experience_years": 0.5,
+    "status": "Loại",
+    "interview_score": 40,
+    "source": "Mạng xã hội"
+  }
+]
